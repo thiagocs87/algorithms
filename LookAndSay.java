@@ -1,4 +1,4 @@
-public class Teste {
+public class LookAndSay {
 
     public static void main(String[] args) {
         teste(10);
